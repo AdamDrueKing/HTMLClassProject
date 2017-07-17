@@ -1,0 +1,24 @@
+﻿body {
+background-color:lightgray;
+}
+
+h1
+{
+    color:#ffffff;
+    font-family: 'Zilla Slab', serif;
+    text-align:center;
+}
+
+div{
+    color:wheat;
+    text-align:center;
+}
+
+img {
+            display:block;
+            margin-left:auto;
+            margin-right:auto;
+            padding:5px;
+        }
+
+                                       
